@@ -1,4 +1,4 @@
-# Python
+# Python🐍
 
 # Aprendendo Python
  Estou começando um novo curso de Python pelo Senai e quero compartilhar minha jornada de aprendizado aqui. Vou postar todo o meu progresso, desde o início até a conclusão, para que possam acompanhar essa experiência comigo.
@@ -8,7 +8,7 @@
 O objetivo principal do primeiro dia foi entender a sintaxe básica da linguagem Python e adaptar-me à matéria. A ideia era me familiarizar com a linguagem e ver como a sintaxe se diferencia de outras linguagens que já conheço, como C# e Java.
 
 
-## Aprendizados
+## Aprendizados 🚀
  Dia 1.
  
  Hoje foi meu primeiro dia de aula aprendendo Python, e o dia foi execelente, professor muito produtivo e didatico. Durante a aula introdutória, começamos com a instalação das ferramentas necessárias para programar, e utilizamos o VS Code para realizar os exercícios propostos. Aprendemos alguns conceitos básicos, como:
@@ -36,11 +36,11 @@ O curso recomenda o uso do Anaconda Cloud ou do VS Code para o desenvolvimento d
 
  **O Code Completion (“preenchimento de código automático”) do VS Code** possui uma boa usabilidade, ajudando na assertividade da sintaxe do código e na agilidade em escrevê-lo. VS Code
 
-# Experiência pessoal
+# Experiência pessoal 🎯
 
 No começo, eu estava um pouco insegura, pois estava me adaptando à nova sintaxe, mesmo conhecendo a lógica das linguagens C# e Java. No entanto, durante as aulas, fui aprendendo e me acostumando com a sintaxe de Python. Fiquei muito confortável programando, e a didática do professor foi excelente.
 
-# Próximos Passos
+# Próximos Passos ✨
 Estou ansiosa para aprender mais sobre estruturas de controle e funções em Python nas próximas aulas.
 
 
