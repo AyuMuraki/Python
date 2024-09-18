@@ -24,9 +24,6 @@ Case Sensitivity: a linguagem Python diferencia maiúsculas e minúsculas.
 Para o desenvolvimento dos códigos, o curso recomenda o uso do Anaconda Cloud ou do VS Code. No entanto, se você se sentir mais confortável usando outro editor de texto ou IDE, sinta-se à vontade para fazê-lo. O Anaconda Cloud é uma plataforma em nuvem que oferece um serviço gratuito de notebooks Jupyter, ideal para desenvolvimento em Python. Para acessar este serviço, basta criar uma conta na plataforma ou se autenticar usando uma conta do Google, Microsoft, ou GitHub. O serviço gratuito possui algumas limitações de processamento, mas é mais do que suficiente para as atividades do curso. Após instalar a extensão, crie um arquivo com a extensão .ipynb para começar a programar.
 
 
-
-## Aprendizado
-
 - print(): Exibir informações na tela. (Função básica para mostrar saídas)
 - input(): Receber entradas do usuário. (Função básica para obter dados do usuário)
 - Anaconda Cloud: Oferece um serviço gratuito de notebooks Jupyter para desenvolvimento em Python. (Plataforma para desenvolvimento e execução de códigos Python)
